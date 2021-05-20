@@ -6,16 +6,16 @@ description: "Primeiro post "
 featuredpost: true
 featuredimage: /img/galleryitem02.jpeg
 ---
-Aqui vamos escrever o primeiro post do novo site do Aikido.
+Aqui vamos escrever o primeiro post do novo site do Aikido. Pode escrever o que quiser aqui
 
 * consigo escrever aqui como se eu estivesse escrevendo no word.
 
-Vamos escrever um texto em **negrito agora**
+Vamos **escrever** um texto em **negrito agora**
 
-Vamos escrever um link <http://aikikai.org.br/> 
+Vamos *escrever* um link [](http://aikikai.org.br/)<http://aikikai.org.br>
 
 e vamos adicionar outra imagem aqui embaixo
 
-![](/img/criancas.jpeg "criancas")
+![](/img/criancas.jpeg)
 
-Consigo continuar escrevendo depois do post tbm
+Consigo continuar escrevendo depois do post tbm, continuando a escrever o texto
